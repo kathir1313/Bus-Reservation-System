@@ -65,7 +65,7 @@ Through this project, I learned:
 **Kathiravan G**
 
 - GitHub: https://github.com/kathir1313
-- LinkedIn: www.linkedin.com/in/kathiravan-g-530603283
+- LinkedIn: https://www.linkedin.com/in/kathiravan-g--/
 
 ## 📸 Sample Output
 
